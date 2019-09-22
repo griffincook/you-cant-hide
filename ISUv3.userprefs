@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\closeFollow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\playerHealth.cs" Line="27" Column="25" />
+      <File FileName="Assets\Scripts\closeFollow.cs" Line="31" Column="45" />
+      <File FileName="Assets\Scripts\jab.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\flashlightHit.cs" Line="20" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

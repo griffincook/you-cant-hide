@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/battlePlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/mushroomSpawnControl.cs" Line="13" Column="27" />
+      <File FileName="Assets/Scripts/battlePlayer.cs" Line="13" Column="34" />
+      <File FileName="Assets/mushroomBoss.cs" Line="24" Column="30" />
+      <File FileName="Assets/Scripts/closeFollow.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/playerHealth.cs" Line="45" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
